@@ -5,4 +5,7 @@ class Author
     @name = name
   end
 
+  def posts
+    Posts.all
+  end
 end
