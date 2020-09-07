@@ -5,15 +5,13 @@ class Author
 
   def initialize(name)
     @name = name
-    @@all < name
+    @@all << name
   end
 
   def posts
     @@all
   end
 
-  def new(name)
-
-  end
   
+
 end
