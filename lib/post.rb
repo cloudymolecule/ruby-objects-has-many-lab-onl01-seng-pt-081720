@@ -1,0 +1,3 @@
+class Posts
+  @@all
+end
