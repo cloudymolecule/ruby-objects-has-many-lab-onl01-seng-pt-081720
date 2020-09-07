@@ -11,4 +11,9 @@ class Author
   def posts
     @@all
   end
+
+  def new(name)
+
+  end
+  
 end
