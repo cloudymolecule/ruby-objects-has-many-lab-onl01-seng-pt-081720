@@ -1,3 +1,3 @@
-# class Posts
-#   @@all
-# end
+class Posts
+  @@all
+end
