@@ -1,3 +1,3 @@
-class Posts
+class Post
   @@all
 end
